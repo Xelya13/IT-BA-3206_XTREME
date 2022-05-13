@@ -2,4 +2,4 @@
 
 ### Introduction
 
-Who would have thought than an experiment conducted by Benjamin Franklin way back in June 10, 1752 will eventually lead to a major problem that our planet is currently facing. A discovery of a particle called electron also known as amber which a part of the building block of life called atom. 
+
