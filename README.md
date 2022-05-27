@@ -14,5 +14,5 @@ During the year 1988, it is said that it was the starting point of when global w
 
 ## Problem Statement
 
-Studies by various scientists in the United Nations showed that the planet Earth only has three to five years left before its end. It is stated in their studies that the continuous use of fossil fuels is the one major factor. Every fossil fuel that is burned emits greenhouse gases that entrap heat in the atmosphere. From air and water pollution to global warming, using fossil fuels for energy has taken a huge toll
+Studies by various scientists in the United Nations showed that the planet Earth only has three to five years left before its end. It is stated in their studies that the continuous use of fossil fuels is the one major factor. Every fossil fuel that is burned emits greenhouse gases that entrap heat in the atmosphere. From air and water pollution to global warming, using fossil fuels for energy has taken a huge toll on humans and the evironment. That's in addition to the detrimental consequences of petroleum-based items like plastics and chemicals.
 
