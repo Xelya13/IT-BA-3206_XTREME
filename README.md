@@ -13,3 +13,6 @@ All of the countries in the world benefit from the existence of fossil fuels whi
 During the year 1988, it is said that it was the starting point of when global warming gets real. The global temperature suddenly increased and it was a critical point when watershed events placed global warming in the spotlight. In that same year it marked the beginning of the worldwide problem that scientist are aware of what it might do and what it can bring upon us. What started in the summer of the year 1988 became o much serious matter and now in the year 2022, scientists in the United Nation are desperate, crying, begging, and are arrested. In April year 2022, scientist protested "End Fossil FUels Now" and "Let the Earth Breathe."
 
 ## Problem Statement
+
+Studies by vaious scientists in the United Nations showed that the planet Earth only has three to five years left before its end. It is stated in their studies that the continuous use of fossil fuels is the one major factor.
+
