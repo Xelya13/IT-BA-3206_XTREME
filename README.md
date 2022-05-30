@@ -33,7 +33,7 @@ Government. For the government officials who have the power and authority to mak
 
 ## Methods
 
-The effects of climate change on natural and human systems will become more severe as the scale of the problem grows. Interventions to mitigate existing and predicted implications of climate change are thus critical. However, there is little evidence of their efficiency, underlining the necessity for proper ecological indicators to track climate change adaptation in the natural environment. <sup>10</sup>
+The effects of climate change on natural and human systems will become more severe as the scale of the problem grows. Interventions to mitigate existing and predicted implications of climate change are thus critical. However, there is little evidence of their efficiency, underlining the necessity for proper ecological indicators to track climate change adaptation in the natural environment. <sup>10</sup> The main target of this study is to compare data sets with the use of data analysis and to showcase the excessive use of fossil fuels wherein it contributes a lot to the further damage that our planet is constantly receiving.
 
 ## Expected Output
 
