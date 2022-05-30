@@ -23,6 +23,11 @@ Studies by various scientists in the United Nations showed that the planet earth
 
 ## Significance of the Proposed Project
 
+The use of fossil fuels has resulted in a lot of occurrences whether it is used for electricity or to run factories, type of machinery, and many more. One thing is for sure it did help a lot of people in living out their everyday lives. Though these kinds of non-renewable sources of energy may have a great impact on the lives of many people, it also did have a great impact on our planet.  This study is made to provide valuable information on what may be the cause of climate change and what may it bring upon us. 
+Students. For students that may tackle this kind of study, it will surely provide necessary pieces of information that are needed. 
+Community. For the benefit of the community that strives to promote a cleaner and greener Earth. A place where fossil fuels are no longer needed.
+Government. For the government officials who have the power and authority to make a stand on the current crisis with regard to the fast-changing climate change.
+
 ## Methods
 
 ## Expected Output
