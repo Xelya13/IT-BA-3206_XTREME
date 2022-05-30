@@ -44,4 +44,6 @@ Direct Air Capture facilities can be situated in strategic locations—near sequ
 
 ## References
 
+######### https://www.nationalgeographic.org/encyclopedia/distribution-fossil-fuels/
+
 
