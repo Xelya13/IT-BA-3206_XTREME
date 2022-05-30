@@ -1,8 +1,7 @@
 # Project Title: Let the Earth Breathe. Weather You Like It or Not.
 
 ## Team XTREME - ITBA 3206
-- Leander Allan M. Mendoza
-##
+Leander Allan M. Mendoza
 
 ## Introduction
 Who would have thought that the past will greatly influence the way people of the present lives? Remains from plants and animals that existed millions of years ago play a major role in how we humans live our lives. These remains are the so-called "Fossil Fuels" which are considered a source of non-renewable energy that is being used in different aspects of life. Fossil Fuels are essential for human survival and daily living, and they are the world's principal energy source. They are utilized in the production of ordinary products such as computers, cosmetics, paint, household appliances, heating, transportation, and electricity generation. The most common source of non-renewable energy is typically known as coal, crude oil, and natural gases that have high carbon content. Coal is the highest with 223 pounds of carbon dioxide per million British thermal units, followed by oil with 163 pounds of carbon dioxide per million British thermal units, and lastly naturalalready gases with 117 pounds of carbon dioxide per million British thermal units.
