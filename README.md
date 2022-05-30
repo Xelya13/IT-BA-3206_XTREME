@@ -16,6 +16,8 @@ According to the Intergovernmental Panel on Climate Change (IPCC), human-induced
 
 The combustion of fossil fuels emits long-lived greenhouse gases such as carbon dioxide and short-lived pollutants such as sulfur dioxide, all of which contribute to the creation of atmospheric aerosols. Aerosols in the atmosphere can chill the climate, disguising some of the warming effects caused by greenhouse gas emissions. When inhaled, however, aerosol particulates are exceedingly hazardous, resulting in millions of early deaths each year. As a result, phasing out unchecked fossil-fuel combustion would not only improve health but will also lessen the extent to which greenhouse-gas-induced warming is concealed by aerosols. (6)
 
+Greenhouse gas emissions must be cut in half by 2030 and nil by 2050 to ensure a livable environment. Governments and corporations must take bold, quick, and broad-based action. However, citizens must participate in the transition to a low-carbon society, particularly in rich economies. Every one of us can contribute to limiting global warming and protecting our planet. We can be part of the solution and influence change by making choices that are less destructive to the environment. (10)
+
 Studies by various scientists in the United Nations showed that the planet earth only has 3-5 years left before its end. It is stated in their studies that the continuous use of fossil fuels is the one major factor. Every fossil fuel that is burned emits greenhouse gases that entrap heat in the atmosphere. From air and water pollution to global warming, using fossil fuels for energy has taken a huge toll on humans and the environment. That's in addition to the detrimental consequences of petroleum-based items like plastics and chemicals.
 
 
@@ -35,7 +37,11 @@ The effects of climate change on natural and human systems will become more seve
 
 ## Expected Output
 
-Greenhouse gas emissions must be cut in half by 2030 and nil by 2050 to ensure a livable environment. Governments and corporations must take bold, quick, and broad-based action. However, citizens must participate in the transition to a low-carbon society, particularly in rich economies. Every one of us can contribute to limiting global warming and protecting our planet. We can be part of the solution and influence change by making choices that are less destructive to the environment. (10)
+This study aims to promote awareness by tackling the issue that made a fuzz in the whole world. Data sets from Our World in Data show how much fossil fuels are consumed each year by countries and per person of energy will be used. By using data sets, the concentration wherein fossil fuels are used the most will be presented.
+
+Based on several predictions conducted by governments, coalitions, and international committees, there is agreement that rapid action is essential to avert a 1.5°C or larger rise in global temperatures. It will be difficult to achieve that goal. According to the United Nations, Intergovernmental Panel on Climate Change (IPCC), limiting global temperature rise to 1.5°C will necessitate the annual removal of 10–20 Gigatons of carbon dioxide (CO2). 11
+
+Direct Air Capture facilities can be situated in strategic locations—near sequestration centers, for example—rather than at the sources of emissions, such as industrial or power plants, thanks to technology that draws CO2 straight from the atmosphere. This will allow for the removal of CO2 that is currently in the atmosphere, as well as emissions from hard-to-decarbonize businesses with mobile sources including aviation, maritime, and long-haul trucks. 11
 
 ## References
 
