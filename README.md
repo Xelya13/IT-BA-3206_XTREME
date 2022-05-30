@@ -47,7 +47,7 @@ Direct Air Capture facilities can be situated in strategic locations—near sequ
 ###### 1. https://www.nationalgeographic.org/encyclopedia/distribution-fossil-fuels/
 ###### 2. https://www.nrdc.org/stories/fossil-fuels-dirty-facts#:~:text=Coal%2C%20crude%20oil%2C%20and%20natural,have%20a%20high%20carbon%20content.
 ###### 3. ClientEarth Communications (2022, February 18) Fossil fuels and climate change: the facts. Retrieved from https://www.clientearth.org/latest/latest-updates/stories/fossil-fuels-and-climate-change-the-facts/#:~:text=When%20fossil%20fuels%20are%20burned,temperature%20has%20increased%20by%201C.
-###### 1 
+###### 4. 8.	Rasul Nasiri, Saeed Motesaddi Zarandi, et al. (2022) Design a protocol to investigate the effects of climate change in vivo https://www.sciencedirect.com/science/article/abs/pii/S001393512200809X
 ###### 1
 ###### 1
 ###### 1
