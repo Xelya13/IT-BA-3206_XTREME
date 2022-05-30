@@ -1,6 +1,6 @@
 # Project Title: Let the Earth Breathe. Weather You Like It or Not.
 
-## Team XTREME - ITBA 3206
+##### Team XTREME - ITBA 3206
 Leander Allan M. Mendoza
 
 ## Introduction
