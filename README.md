@@ -45,5 +45,15 @@ Direct Air Capture facilities can be situated in strategic locations—near sequ
 ## References
 
 ###### 1. https://www.nationalgeographic.org/encyclopedia/distribution-fossil-fuels/
+###### 2. https://www.nrdc.org/stories/fossil-fuels-dirty-facts#:~:text=Coal%2C%20crude%20oil%2C%20and%20natural,have%20a%20high%20carbon%20content.
+###### 1
+###### 1
+###### 1
+###### 1
+###### 1
+###### 1
+###### 1
+###### 1
+###### 1
 
 
