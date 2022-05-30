@@ -28,7 +28,7 @@ Students. For students that may tackle this kind of study, it will surely provid
 
 Community. For the benefit of the community that strives to promote a cleaner and greener Earth. A place where fossil fuels are no longer needed.
 
-Government. For the government officials who have the power and authority to make a stand on the current crisis with regard to the fast-changing climate change.
+Government. For the government officials who have the power and authority to make a stand on the current crisis about the fast-changing climate change.
 
 ## Methods
 
