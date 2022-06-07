@@ -51,7 +51,7 @@ Direct Air Capture facilities can be situated in strategic locations—near sequ
 ###### 5. A&E Television Networks (2017, October 6) Climate Change History
 https://www.history.com/topics/natural-disasters-and-environment/history-of-climate-change#:~:text=1988%3A%20Global%20Warming%20Gets%20Real,-The%20early%201980s&text=Many%20experts%20point%20to%201988,wildfires%20within%20the%20United%20States.
 https://www.history.com/topics/natural-disasters-and-environment/history-of-climate-change#:~:text=1988%3A%20Global%20Warming%20Gets%20Real,-The%20early%201980s&text=Many%20experts%20point%20to%201988,wildfires%20within%20the%20United%20States.
-###### 6. 
+###### 6.	Drew Shindell & Christopher J. Smith (2019) Climate and air-quality benefits of a realistic phase-out of fossil fuels https://www.nature.com/articles/s41586-019-1554-z
 ###### 1
 ###### 1
 ###### 1
