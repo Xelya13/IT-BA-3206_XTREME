@@ -44,7 +44,7 @@ Direct Air Capture facilities can be situated in strategic locations—near sequ
 
 ## Sustainable Development Goals (SDGs) of the Project
 Goal 13: Climate Action - aims to "take urgent action to address climate change and its impacts."
-<img src="relative/path/in/repository/to/Sdg13.png" width="128"/>
+<img src="https://github.com/Xelya13/IT-BA-3206_XTREME/blob/main/Sdg13.png" width="128"/>
 
 ## References
 
