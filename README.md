@@ -42,6 +42,9 @@ Based on several predictions conducted by governments, coalitions, and internati
 
 Direct Air Capture facilities can be situated in strategic locations—near sequestration centers, for example—rather than at the sources of emissions, such as industrial or power plants, thanks to technology that draws CO2 straight from the atmosphere. This will allow for the removal of CO2 that is currently in the atmosphere, as well as emissions from hard-to-decarbonize businesses with mobile sources including aviation, maritime, and long-haul trucks. <sup>[11]</sup>
 
+## Sustainable Development Goals (SDGs) of the Project
+Goal 13: Climate Action - aims to "take urgent action to address climate change and its impacts."
+
 ## References
 
 ###### 1. https://www.nationalgeographic.org/encyclopedia/distribution-fossil-fuels/
