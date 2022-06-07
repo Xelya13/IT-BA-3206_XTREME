@@ -40,22 +40,29 @@ This study aims to promote awareness by tackling the issue that made a fuzz in t
 
 Based on several predictions conducted by governments, coalitions, and international committees, there is agreement that rapid action is essential to avert a 1.5°C or larger rise in global temperatures. It will be difficult to achieve that goal. According to the United Nations, Intergovernmental Panel on Climate Change (IPCC), limiting global temperature rise to 1.5°C will necessitate the annual removal of 10–20 Gigatons of carbon dioxide (CO2). <sup>[11]</sup>
 
-Direct Air Capture facilities can be situated in strategic locations—near sequestration centers, for example—rather than at the sources of emissions, such as industrial or power plants, thanks to technology that draws CO2 straight from the atmosphere. This will allow for the removal of CO2 that is currently in the atmosphere, as well as emissions from hard-to-decarbonize businesses with mobile sources including aviation, maritime, and long-haul trucks. <sup>[1]1</sup>
+Direct Air Capture facilities can be situated in strategic locations—near sequestration centers, for example—rather than at the sources of emissions, such as industrial or power plants, thanks to technology that draws CO2 straight from the atmosphere. This will allow for the removal of CO2 that is currently in the atmosphere, as well as emissions from hard-to-decarbonize businesses with mobile sources including aviation, maritime, and long-haul trucks. <sup>[11]</sup>
 
 ## References
 
 ###### 1. https://www.nationalgeographic.org/encyclopedia/distribution-fossil-fuels/
 ###### 2. https://www.nrdc.org/stories/fossil-fuels-dirty-facts#:~:text=Coal%2C%20crude%20oil%2C%20and%20natural,have%20a%20high%20carbon%20content.
 ###### 3. ClientEarth Communications (2022, February 18) Fossil fuels and climate change: the facts. Retrieved from https://www.clientearth.org/latest/latest-updates/stories/fossil-fuels-and-climate-change-the-facts/#:~:text=When%20fossil%20fuels%20are%20burned,temperature%20has%20increased%20by%201C.
-###### 4.Rasul Nasiri, Saeed Motesaddi Zarandi, et al. (2022) Design a protocol to investigate the effects of climate change in vivo https://www.sciencedirect.com/science/article/abs/pii/S001393512200809X
+###### 4.Rasul Nasiri, Saeed Motesaddi Zarandi, et al. (2022) Design a protocol to investigate the effects of climate change in vivo
+https://www.sciencedirect.com/science/article/abs/pii/S001393512200809X
 ###### 5. A&E Television Networks (2017, October 6) Climate Change History
 https://www.history.com/topics/natural-disasters-and-environment/history-of-climate-change#:~:text=1988%3A%20Global%20Warming%20Gets%20Real,-The%20early%201980s&text=Many%20experts%20point%20to%201988,wildfires%20within%20the%20United%20States.
-https://www.history.com/topics/natural-disasters-and-environment/history-of-climate-change#:~:text=1988%3A%20Global%20Warming%20Gets%20Real,-The%20early%201980s&text=Many%20experts%20point%20to%201988,wildfires%20within%20the%20United%20States.
-###### 6.	Drew Shindell & Christopher J. Smith (2019) Climate and air-quality benefits of a realistic phase-out of fossil fuels https://www.nature.com/articles/s41586-019-1554-z
-###### 1
-###### 1
-###### 1
-###### 1
-###### 1
+https://www.history.com/topics/natural-disasters-and-environment/history-of-climate-change#:~:text=1988%3A%20Global%20Warming%20Gets%20Real,-The%20early%201980s&text=Many%20experts%20point%20to%201988,wildfires%20within%20the%20Unit6ed%20States.
+###### 6. IPCC Sixth Assessment Report (2022) Climate Change 2022: Impacts, Adaptation, and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change 
+https://www.ipcc.ch/report/ar6/wg2/
+###### 7.	Drew Shindell & Christopher J. Smith (2019) Climate and air-quality benefits of a realistic phase-out of fossil fuels
+https://www.nature.com/articles/s41586-019-1554-z
+###### 8. Act Now (2018) The UN Campaign for Individual Action
+https://www.un.org/actnow?gclid=Cj0KCQjw1tGUBhDXARIsAIJx01l2cSADzZRajFw0SnvFfHLqI2BW1qyOuE6IyGvYT-MgiDh1dzb8gIAaAtN_EALw_wcB](https://www.un.org/actnow?gclid=Cj0KCQjw1tGUBhDXARIsAIJx01l2cSADzZRajFw0SnvFfHLqI2BW1qyOuE6IyGvYT-MgiDh1dzb8gIAaAtN_EALw_wcB)
+###### 9. Demchak (2018) Fossil Fuels: The Dirty Facts
+https://www.nrdc.org/stories/fossil-fuels-dirty-facts#:~:text=Coal%2C%20crude%20oil%2C%20and%20natural,have%20a%20high%20carbon%20content.
+###### 10. J.W.Pearce-Higgins, L.H.Antão (2022) A framework for climate change adaptation indicators for the natural environment
+https://www.sciencedirect.com/science/article/pii/S1470160X22001613
+###### 11. 1POINTFIVE (2022) Delivering Solutions to Reduce Global Emissions
+https://www.1pointfive.com/?gclid=Cj0KCQjw1tGUBhDXARIsAIJx01kwOCuFZG8UU0aRG9STv65QFGwvr7kWN6kia8-mU72dnMH0PASBdIQaAiALEALw_wcB
 
 
